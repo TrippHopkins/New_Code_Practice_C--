@@ -4,7 +4,7 @@
 int main(){
 
     //pointers = variables that store a memory address of another variable
-    //              sometimes it's easier to work with an address
+    //           sometimes it's easier to work with an address
 
     // & address-of operator
     // dereference operator
